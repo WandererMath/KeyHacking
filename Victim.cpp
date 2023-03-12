@@ -6,7 +6,7 @@
 #include <string.h>
 #include <sys/socket.h>
 #include <sys/types.h>
-#include <unistd.h> // read(), write(), close()
+#include <unistd.h> 
 #include<fstream>
 #include<iostream>
 #include <cstring>

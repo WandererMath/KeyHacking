@@ -10,7 +10,7 @@
 #include <netinet/in.h>
 #include <sys/socket.h>
 #include <sys/types.h>
-#include <unistd.h> // read(), write(), close()
+#include <unistd.h> 
 
 
 #define MY_IP "127.0.0.1"
